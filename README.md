@@ -1,18 +1,19 @@
 # bang-rules
-These are the core rules for the original 2002 edition of *Bang!* by Emiliano Sciarra.
+
+These are the core rules for the original 2002 edition of _Bang!_ by Emiliano Sciarra.
 
 ---
 
 ## 🎭 Roles
 
 | Players | Sheriff | Deputies | Outlaws | Renegades |
-|---------|---------|----------|---------|-----------|
+| ------- | ------- | -------- | ------- | --------- |
 | 4       | 1       | 0        | 2       | 1         |
 | 5       | 1       | 1        | 2       | 1         |
 | 6       | 1       | 1        | 3       | 1         |
 | 7       | 1       | 2        | 3       | 1         |
 
-> 🛑 *Note: First edition does not support more than 7 players. No secret sheriff or multiple renegades exist in the base game.*
+> 🛑 _Note: First edition does not support more than 7 players. No secret sheriff or multiple renegades exist in the base game._
 
 - The **Sheriff** reveals their role at game start and receives **1 extra life point**.
 - All other roles remain hidden until eliminated.
@@ -29,7 +30,7 @@ These are the core rules for the original 2002 edition of *Bang!* by Emiliano Sc
 
 ## 🔫 Card Play Rules
 
-- Only **1 Bang!** per turn (*unless your character/weapon says otherwise*).
+- Only **1 Bang!** per turn (_unless your character/weapon says otherwise_).
 - Only **1 weapon** in play per player.
 - You cannot have **more than one copy** of any card in play.
 - Maximum **hand size = life points**.
@@ -39,11 +40,13 @@ These are the core rules for the original 2002 edition of *Bang!* by Emiliano Sc
 ## 🧨 Special Card Rules
 
 - **Dynamite**: Place in front of you. On your next turn, before drawing, flip top card:
+
   - If it’s a **Spade** (2–9): explode! Lose **3 life points**, Dynamite discarded.
   - Otherwise, Dynamite moves to the player on your left.
 
 - **Jail**:
-  - Can be played on *any player*, including the **Sheriff**.
+
+  - Can be played on _any player_, including the **Sheriff**.
   - Before your turn, flip top card:
     - If it's a **Heart or Diamond**: escape, discard Jail, proceed with turn.
     - Otherwise, skip your turn—**Jail stays** until you escape.
@@ -57,24 +60,24 @@ These are the core rules for the original 2002 edition of *Bang!* by Emiliano Sc
 
 ## 👤 Characters
 
-| Character        | Ability                                                                 |
-|------------------|-------------------------------------------------------------------------|
-| **Bart Cassidy** | When he loses a life, immediately draw 1 card.                         |
-| **Black Jack**   | Reveal 2nd drawn card; if Heart or Diamond, draw a 3rd (keep hidden).  |
-| **Calamity Janet** | May play *Bang!* as *Missed!* and vice versa (still max 1 Bang! per turn). |
-| **El Gringo**    | When he loses a life to another player's card, draw a random card from them. |
-| **Jesse Jones**  | May draw 1st card from another player's hand (at random) or deck.      |
-| **Jourdonnais**  | Has a permanent **Barrel** effect.                                     |
-| **Kit Carlson**  | Look at top 3 cards of deck, keep 2, return 1 on top (face-down).      |
-| **Lucky Duke**   | When required to *Draw!*, flip top **2 cards** and choose one.         |
-| **Paul Regret**  | Other players see him at distance +1.                                  |
-| **Pedro Ramirez**| May draw 1st card from discard pile or deck.                           |
-| **Rose Doolan**  | Sees all other players at distance -1.                                 |
-| **Sid Ketchum**  | May discard 2 cards to regain 1 life point (any time). **Starts with 3 HP**. |
-| **Slab the Killer** | Opponents need **2 Missed!** to cancel his *Bang!*.                 |
-| **Suzy Lafayette** | When she has no cards in hand, draw a card.                          |
-| **Vulture Sam**  | When another player is eliminated, take all their cards.               |
-| **Willy the Kid**| May play any number of *Bang!* cards during his turn.                  |
+| Character           | Ability                                                                      |
+| ------------------- | ---------------------------------------------------------------------------- |
+| **Bart Cassidy**    | When he loses a life, immediately draw 1 card.                               |
+| **Black Jack**      | Reveal 2nd drawn card; if Heart or Diamond, draw a 3rd (keep hidden).        |
+| **Calamity Janet**  | May play _Bang!_ as _Missed!_ and vice versa (still max 1 Bang! per turn).   |
+| **El Gringo**       | When he loses a life to another player's card, draw a random card from them. |
+| **Jesse Jones**     | May draw 1st card from another player's hand (at random) or deck.            |
+| **Jourdonnais**     | Has a permanent **Barrel** effect.                                           |
+| **Kit Carlson**     | Look at top 3 cards of deck, keep 2, return 1 on top (face-down).            |
+| **Lucky Duke**      | When required to _Draw!_, flip top **2 cards** and choose one.               |
+| **Paul Regret**     | Other players see him at distance +1.                                        |
+| **Pedro Ramirez**   | May draw 1st card from discard pile or deck.                                 |
+| **Rose Doolan**     | Sees all other players at distance -1.                                       |
+| **Sid Ketchum**     | May discard 2 cards to regain 1 life point (any time). **Starts with 3 HP**. |
+| **Slab the Killer** | Opponents need **2 Missed!** to cancel his _Bang!_.                          |
+| **Suzy Lafayette**  | When she has no cards in hand, draw a card.                                  |
+| **Vulture Sam**     | When another player is eliminated, take all their cards.                     |
+| **Willy the Kid**   | May play any number of _Bang!_ cards during his turn.                        |
 
 ---
 
@@ -82,12 +85,12 @@ These are the core rules for the original 2002 edition of *Bang!* by Emiliano Sc
 
 ### Blue Border – In-Play Cards
 
-- **Barrel**: Draw! when hit by *Bang!*—if **Heart**, counts as *Missed!*.
+- **Barrel**: Draw! when hit by _Bang!_—if **Heart**, counts as _Missed!_.
 - **Dynamite**: See rules above.
 - **Jail**: See rules above.
 - **Mustang**: Others see you at +1 distance.
 - **Scope**: You see others at -1 distance.
-- **Volcanic (Weapon)**: Allows multiple *Bang!* per turn.
+- **Volcanic (Weapon)**: Allows multiple _Bang!_ per turn.
 
 ### Brown Border – Play & Discard
 
@@ -96,9 +99,9 @@ These are the core rules for the original 2002 edition of *Bang!* by Emiliano Sc
 - **Cat Balou**: Force player to discard 1 card (in hand or in play).
 - **Duel**: Alternate *Bang!*s until one player can't respond. That player loses 1 life.
 - **Emporio**: Flip cards equal to players; each chooses 1, starting with you.
-- **Gatling**: Fires *Bang!* at everyone else. Not a *Bang!* card.
-- **Indians!**: Everyone discards a *Bang!* or loses 1 life.
-- **Missed!**: Play after *Bang!* to avoid damage.
+- **Gatling**: Fires _Bang!_ at everyone else. Not a _Bang!_ card.
+- **Indians!**: Everyone discards a _Bang!_ or loses 1 life.
+- **Missed!**: Play after _Bang!_ to avoid damage.
 - **Panic!**: Take card from a player at distance 1 (in play or at random from hand).
 - **Saloon**: Everyone gains 1 life.
 - **Stagecoach**: Draw 2 cards.
@@ -108,7 +111,7 @@ These are the core rules for the original 2002 edition of *Bang!* by Emiliano Sc
 
 ## 📝 Notes
 
-- You can always play cards **out of turn** if allowed (e.g., *Beer* after being hit).
+- You can always play cards **out of turn** if allowed (e.g., _Beer_ after being hit).
 - You may not exceed your maximum health.
 - The Sheriff wins if all Outlaws and Renegades are dead.
 - The Renegade wins if all others are dead—and they kill the Sheriff **last**.
